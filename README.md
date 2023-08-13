@@ -27,17 +27,17 @@ pip install PyPDF2 Pillow img2pdf reportlab ttkbootstrap
 
 ## Usage
 1. Clone the repo
-  ```
+```
   git clone https://github.com/kourdroid/PyPDFToolkit.git
-  ```
+```
 2. Enter the Repository:
-   ```
+```
    cd PyPDFToolkit  
-   ```
+```
 3. Run the script using Python:
-  ```
+```
   python pdforganizer.py 
-  ```
+```
 Please note that this script requires Python 3.x to run.
 
 ## How to Use
